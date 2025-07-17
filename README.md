@@ -1,5 +1,5 @@
 # **ChatGPT 中文版：国内直接访问指南（支持GPT-4，无需翻墙）【2025年5月推荐】**
->更新日期：2025年5月19日
+>更新日期：2025年7月18日
 
 ## **什么是ChatGPT中文版？**
 
@@ -33,8 +33,8 @@
 | 平台名称 | 支持功能 | 类型 | 访问链接 |
 | -------- | ------- | ------- | ---- |
 | 意下AI | GPT-4.0、GPT o1、AI绘画 | 网站 | [xsimplechat.com](https://xsimplechat.com) |
-| Lify Chat | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站 | [chat.lanjing.pro](https://chat.lanjing.pro) |
-| 智慧岛 | GPT全系列模型 | 电脑客户端 | [ChatGPT For Desktop](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) |
+| Lify Chat | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站 | [chat.lanjingai.org](https://chat.lanjingai.org) |
+| 智慧岛 | GPT全系列模型 | 电脑客户端 | [ChatGPT For Desktop](https://xsimplechat.com/app_client/XSimpleChat-windows.zip) |
 
 这些平台不仅支持高性能的ChatGPT，还提供多种扩展功能，例如AI绘画、AI PPT生成等，非常适合各种不同需求。
 
