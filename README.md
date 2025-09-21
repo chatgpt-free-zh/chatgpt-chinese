@@ -1,5 +1,5 @@
-# **ChatGPT 中文版：国内直接访问指南（支持GPT-4，无需翻墙）【2025年7月推荐】**
->更新日期：2025年7月29日
+# **ChatGPT 中文版：国内直接访问指南（支持GPT-5，无需翻墙）【2025年9月推荐】**
+>更新日期：2025年9月22日
 
 ## **什么是ChatGPT中文版？**
 
@@ -8,7 +8,7 @@
 
 - 中文支持增强：对话体验更自然，适合写作、办公、学习等场景。
 - 无障碍访问：通过国内镜像站，无需翻墙即可使用。
-- 多功能扩展：支持 GPT-4 模型，提供翻译、问答、内容创作等多种功能。
+- 多功能扩展：支持 GPT-5 模型，提供翻译、问答、内容创作等多种功能。
 
 ## **国内访问ChatGPT中文版的方法**
 
@@ -32,8 +32,8 @@
 
 | 平台名称 | 支持功能 | 类型 | 访问链接 |
 | -------- | ------- | ------- | ---- |
-| 意下AI | GPT-4.0、GPT-4o、GPT o1、GTP-o3、Claude、DeepSeek r1、Grok、Gemini 2.5 Pro、AI绘画、AI PPT、插件 | 网站 | [xsimplechat.com](https://xsimplechat.com) |
-| 蓝鲸 Chat | GPT-4.0、GPT4.0 turbo、GPT o1、DeepSeek R1满血版、Claude 4 Sonnet、Gemini 2.5 Pro | 网站 | [chat.lanjingai.org](https://chat.lanjingai.org) |
+| 意下AI | GPT-5、GPT-4o、GPT o1、GTP-o3、Claude、DeepSeek r1、Grok、Gemini 2.5 Pro、AI绘画、AI PPT、插件 | 网站 | [xsimplechat.com](https://xsimplechat.com) |
+| 蓝鲸 Chat | GPT-5、GPT4.0 turbo、GPT o1、DeepSeek R1满血版、Claude 4 Sonnet、Gemini 2.5 Pro | 网站 | [ai.lanjingai.org](https://ai.lanjingai.org) |
 | 智慧岛 | GPT全系列模型 | 电脑客户端 | [ChatGPT For Desktop](https://xsimplechat.com/app_client/XSimpleChat-windows.zip) |
 
 这些平台不仅支持高性能的ChatGPT，还提供多种扩展功能，例如AI绘画、AI PPT生成等，非常适合各种不同需求。
